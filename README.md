@@ -1,2 +1,2 @@
 # practice
-repository to put practice codes.
+I do hate Monday.
